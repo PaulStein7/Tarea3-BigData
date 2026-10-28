@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+
+/spark-3.5.1-bin-hadoop3/
+/kafka_2.12-3.4.0/
+/kafka_2.13-3.4.0/
+
+/spark-3.5.1-bin-hadoop3.tgz
+/kafka_2.12-3.4.0.tgz
+/kafka_2.13-3.4.0.tgz
